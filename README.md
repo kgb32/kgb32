@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kgb32
-- 👀 I’m interested in R, LaTeX, Markdown
-- 🌱 I’m currently learning RMarkdown
+- 👀 I’m interested in R, LaTeX, RMarkdown
 - 📫 How to reach me karina.bertolino@usp.br
 
 <!---
